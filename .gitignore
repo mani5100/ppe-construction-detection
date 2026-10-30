@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Training checkpoints (duplicate of ppe_yolov8m_export/ppe_yolov8m_best.pt + last.pt)
+runs/weights/
+
+# Inference outputs
+output/

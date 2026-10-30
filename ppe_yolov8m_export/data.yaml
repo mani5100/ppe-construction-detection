@@ -1,0 +1,10 @@
+path: /kaggle/working/ppe_4cls
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names:
+  0: helmet
+  1: gloves
+  2: vest
+  3: person
